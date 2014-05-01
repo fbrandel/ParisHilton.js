@@ -1,0 +1,1 @@
+document.getElementsByTagName('head')[0].innerHTML = '';
